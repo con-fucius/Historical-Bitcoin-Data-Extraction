@@ -70,7 +70,3 @@ This query is useful for:
 |-------------------------|--------|--------|------------------|-------------------|
 | 2024-01-01 12:00:00    | 0.0023 | 0.0012 | 1A1zP1eP5QGefi2  | 10                |
 | 2024-01-02 15:30:00    | 0.0035 | 0.0015 | 3J98t1WpEZ73CNm  | 7                 |
-
-## License
-
-This query is provided under the MIT License. Feel free to use and adapt it for your projects.
