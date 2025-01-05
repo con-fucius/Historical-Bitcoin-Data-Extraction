@@ -1,3 +1,4 @@
+
 WITH recent_transactions AS (
   SELECT
     block_time,
